@@ -6,3 +6,12 @@
 p {
   width: 15rem;
 }
+.list {
+  width: 50rem;
+  height: 300px;
+  display: grid;
+  grid-template-columns: repeat(2, 35rem);
+  grid-template-rows: repeat(2, 25rem);
+  column-gap: 10px;
+  row-gap: 10px;
+}

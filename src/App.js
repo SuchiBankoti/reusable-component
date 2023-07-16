@@ -7,21 +7,21 @@ function App() {
       imageUrl:
         "https://prasadyash2411.github.io/ecom-website/img/Album%201.png",
       description:
-        "Design a reusable React component that displays a list of items, each represented by a card with an image and a description. Explain how you would handle cases where the image URL is broken or not loading",
+        "This is a image of multiple color bursts ,if there is an error in image loading it will be replaced by the image of a cat",
     },
 
     {
       imageUrl:
         "https://prasadyash2411.github.io/ecom-website/img/Album%202.png",
       description:
-        "Design a reusable React component that displays a list of items, each represented by a card with an image and a description. Explain how you would handle cases where the image URL is broken or not loading",
+        "This is a image of black color bursting into white ,if there is an error in image loading it will be replaced by the image of a cat",
     },
 
     {
       imageUrl:
         "https://prasadyash2411.github.io/ecom-website/img/Album%203.png",
       description:
-        "Design a reusable React component that displays a list of items, each represented by a card with an image and a description. Explain how you would handle cases where the image URL is broken or not loading",
+        "This is a image of black and golden design ,if there is an error in image loading it will be replaced by the image of a cat",
     },
   ];
 

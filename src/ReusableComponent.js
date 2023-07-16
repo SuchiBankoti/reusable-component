@@ -28,7 +28,7 @@ const ResuableComponent = (props) => {
   const { items } = props;
 
   return (
-    <ul>
+    <ul className="list">
       {items.map((item, i) => (
         <ItemCard item={item} key={i} />
       ))}
